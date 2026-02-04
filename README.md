@@ -1,14 +1,17 @@
-# 李渔 👋
+<h1 align="center">嗨👋，我是babous</h1>
+<h3 align="center">学习无止境</h3>
 
-GitHub 用户名：@babbous  
-小透明，正在慢慢玩转 GitHub ～
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=babous&label=Profile%20views&color=0e75b6&style=flat" alt="babous" /> </p>
 
-### 关于我
-- 🌱 目前状态：新手阶段，啥都想试
-- 🔭 目标：每天来存点东西、下载插件/软件、记录学习笔记
-- 😄 兴趣：AI 工具、浏览器扩展、好玩的开源资源
+<h3 align="left">联系我：</h3>
+<p align="left">
+</p>
 
-### 我的小仓库
-- [我的第一个项目](https://github.com/babboos/my-first-project)：测试上传文件和玩耍的地方
+<h3 align="left">语言和工具：</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-持续更新中…… 李渔在此报道！
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=babous&show_icons=true&locale=en&layout=compact" alt="babous" /></p> <p>
+
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=babous&show_icons=true&locale=en" alt="babous" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=babous&" alt="babous" /></p>
